@@ -2,7 +2,7 @@
 
 Track: Undergraduate, Task A only
 
-Team members: Uyiosa Nehikhuere and PARTNER NAME HERE
+Team members: Uyiosa Nehikhuere 
 
 ## What it does
 
@@ -27,11 +27,6 @@ Tapping the button calls _getTip, which sets _tipStatus to loading with setState
 Q2. Which fixed local category selects the tip, and what form information does the feature leave out?
 The category is password_help, stored as a constant in the code. The feature never reads the name, email, or password the user typed, so tips cannot approve a signup or replace the validators.
 
-## Reflection: PARTNER NAME HERE
-
-Q1. (partner answer)
-
-Q2. (partner answer)
 
 ## Build the APK
 
